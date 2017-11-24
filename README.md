@@ -1,3 +1,2 @@
 # hello-world
-This is just plain text to get familiar with the master branch
-
+Text of the readme branch
